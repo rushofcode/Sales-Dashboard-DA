@@ -1,0 +1,13 @@
+Insights from Sales Dataset
+
+1. West Region Leads Sales:
+The dataset shows strong dominance of sales from western states like California, indicating the West region contributes the highest share of overall revenue.
+
+2. Office Supplies is the Most Purchased Category:
+Office Supplies has the highest frequency of purchases, reflecting regular, high-volume demand from customers compared to other categories.
+
+3. Presence of High-Value Enterprise Orders:
+The maximum single sale recorded is ₹22,638.48, showing that large enterprise-level purchases significantly influence revenue distribution.
+
+4. Majority of Orders Are Low to Mid-Value:
+50% of transactions fall below ₹54.49, suggesting that typical customer orders are small to medium-sized, though occasional big-ticket items raise the average to ₹230.76.
